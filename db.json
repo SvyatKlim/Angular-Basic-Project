@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "nameEN": "pizza",
+      "nameUA": "піца",
+      "id": 1
+    },
+    {
+      "nameEN": "salad",
+      "nameUA": "салат",
+      "id": 2
+    },
+    {
+      "nameEN": "drinks",
+      "nameUA": "напої",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "category": {
+        "id": 1,
+        "nameEN": "pizza",
+        "nameUA": "піца"
+      },
+      "nameEN": "la-piec",
+      "nameUA": "Піца La П’єц",
+      "description": "соус томатний, шинка, баварські ковбаски, сир моцарела, ковбаса салямі, прошуто.",
+      "weight": "480 гр",
+      "price": 167,
+      "image": "https://firebasestorage.googleapis.com/v0/b/thursday-3ffab.appspot.com/o/images%2Fla-piec.png?alt=media&token=04be3b46-4eac-4210-93f5-92931cab6ed3",
+      "count": 1,
+      "id": 1
+    },
+    {
+      "category": {
+        "id": 1,
+        "nameEN": "pizza",
+        "nameUA": "піца"
+      },
+      "nameEN": "kaprichoza",
+      "nameUA": "Капрічоза",
+      "description": "соус томатний, сир моцарела, шинка, свіжі гриби.",
+      "weight": "470 гр",
+      "price": 151,
+      "image": "https://firebasestorage.googleapis.com/v0/b/thursday-3ffab.appspot.com/o/images%2Fkaprichoza.png?alt=media&token=ed03d0cf-a046-4062-b1e2-0375d50afd93",
+      "count": 1,
+      "id": 2
+    },
+    {
+      "category": {
+        "nameEN": "salad",
+        "nameUA": "салат",
+        "id": 2
+      },
+      "nameEN": "cezar",
+      "nameUA": "Салат Цезар зі смаженим курячим філе",
+      "description": "Салат айсберг, помідори, куряче м`ясо, сир пармезан, перепелині яйця, духмяні сухарики та фірмова заправка.",
+      "weight": "250 гр",
+      "price": 125,
+      "image": "https://firebasestorage.googleapis.com/v0/b/thursday-3ffab.appspot.com/o/images%2Ftsezar-z-kurkoyu.png?alt=media&token=99a5954c-e45a-462d-ac8f-0fe33475753e",
+      "count": 1,
+      "id": 3
+    },
+    {
+      "category": {
+        "nameEN": "drinks",
+        "nameUA": "напої",
+        "id": 3
+      },
+      "nameEN": "rich-orange",
+      "nameUA": "Апельсиновий нектар з м'якоттю",
+      "description": "Апельсиновий нектар з м'якоттю, 1 л, ТМ “RICH”",
+      "weight": "1 л",
+      "price": 42,
+      "image": "https://firebasestorage.googleapis.com/v0/b/thursday-3ffab.appspot.com/o/images%2Frich_orange.jpeg?alt=media&token=e4379c8d-3c22-49c6-9fe2-2bf4c5928ec7",
+      "count": 1,
+      "id": 4
+    }
+  ]
+}
